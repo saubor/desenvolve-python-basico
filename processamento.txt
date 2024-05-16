@@ -1,0 +1,8 @@
+Entrada: O algoritmo recebe como entrada o número n para o qual queremos calcular a tabuada do 9.
+
+Processamento:
+Calculamos o primeiro dígito (digito1) subtraindo 1 de n.
+Calculamos o segundo dígito (digito2) subtraindo n de 10.
+Multiplicamos o primeiro dígito por 10 e somamos com o segundo dígito.
+
+Saída: O algoritmo imprime o resultado da multiplicação de 9 por n, seguindo as regras dadas.
