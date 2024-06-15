@@ -1,0 +1,10 @@
+python
+enforcado
+programacao
+computador
+linguagem
+algoritmo
+variavel
+condicional
+loop
+função
